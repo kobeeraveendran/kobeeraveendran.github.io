@@ -1,11 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Navigation } from "./components/Navigation";
-import { Footer } from "./components/Footer";
-import { Home } from "./components/Home";
-import { About } from "./components/About";
-import { Contact } from "./components/Contact";
+import { Navigation, Footer, Home, About, Contact } from "./components"
 import { Route, Router, Switch } from 'react-router-dom';
 
 function App() {
