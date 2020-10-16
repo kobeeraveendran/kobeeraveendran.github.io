@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name":"Kobee Raveendran",
+    "occupation":"Software Engineer and Researcher",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"If you'd like to reach me for any reason, feel free to use any of the mediums below.",
+    "email": "kobee.raveendran@knights.ucf.edu",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"",
+      "city":"Orlando",
+      "state":"Florida",
+      "zip": ""
+    },
+    "website": "http://www.kobeeraveendran.com",
+    "resumedownload":"kobeeraveendran_software_engineer_resume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"http://github.com/kobeeraveendran",
+        "className":"fa fa-github"
+      }, 
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kobee-raveendran/",
+        "className":"fa fa-linkedin"
+      }      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my technical skills and familiar frameworks, ranked by proficiency.",
+    "education":[
+      {
+        "school":"University of Central Florida",
+        "degree":"Master of Science in Computer Science",
+        "graduated":"August 2020 - May 2021",
+        "description":""
+      },
+      {
+        "school":"University of Central Florida",
+        "degree":"Bachelor of Science in Computer Science, Mathematics Minor",
+        "graduated":"May 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Major League Hacking",
+        "title":"MLH Externship Fellow",
+        "years":"October 2020 - Present",
+        "description":"Member of the MLH Fellowship's Fall 2020 cohort, in which I was selected as one of ~160 out of 10,000+ applicants. My 3-member pod, backed by the U.S. Department of Defense, is working on developing an NLP-based learning solution for members of the U.S. Navy to practice voice commands."
+      },
+      {
+        "company":"University of Central Florida",
+        "title":"Undergraduate Researcher",
+        "years":"January 2020 - August 2020",
+        "description":"Worked under Dr. Yaser Fallah and the PhD students in the Connected and Autonomous Vehicles Research Lab (CAVREL) on the perception (lane-finding, 3D object detection, etc.) components of connected self-driving vehicles."
+      }, 
+      {
+        "company":"University of Florida", 
+        "title": "Undergraduate Researcher", 
+        "years": "May 2019 - August 2019", 
+        "description": "Worked under Dr. Swarup Bhunia and Prabuddha Chakraborty to develop and improve on a novel image compression algorithm using machine learning for triangulation acceleration via point prediction. ML model development was done in Python using Keras for prototyping, and color quantization and dequantization methods were implemented in C++."
+      }, 
+      {
+        "company": "The Walt Disney Company", 
+        "title": "Machine Learning Engineer Intern", 
+        "years": "January 2019 - May 2019", 
+        "description": "Researched and implemented components of a machine learning pipeline for predicting user interest in products from a corpus of product descriptions. Tested, demonstrated, and reviewed viability of new machine learning development tools for approval of use within the Walt Disney Parks and Resorts (WDPR). Additionally developed tools for tokenization and user authentication into WDPR using Python and JavaScript."
+      }
+    ],
+    "skills":[
+      {
+        "name": "Python", 
+        "level": "90%"
+      }, 
+      {
+        "name": "C++", 
+        "level": "60%"
+      }, 
+      {
+        "name": "JavaScript", 
+        "level": "50%"
+      }, 
+      {
+        "name": "Machine Learning and Deep Learning methods", 
+        "level": "75%"
+      }, 
+      {
+        "name": "numpy, scikit-learn", 
+        "level": "70%"
+      }, 
+      {
+        "name": "Keras", 
+        "level": "70%"
+      }, 
+      {
+        "name": "UNIX command line", 
+        "level": "65%"
+      }, 
+      {
+        "name":"Git version control",
+        "level":"65%"
+      },
+      
+      {
+        "name": "PyTorch", 
+        "level": "60%"
+      }, 
+      {
+        "name": "ReactJS", 
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Headstone Photo Processing System v2",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
