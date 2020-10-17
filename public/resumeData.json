@@ -48,7 +48,7 @@
     "work":[
       {
         "company":"Major League Hacking",
-        "title":"MLH Externship Fellow",
+        "title":"Software Engineering Fellow",
         "years":"October 2020 - Present",
         "description":"Member of the MLH Fellowship's Fall 2020 cohort, in which I was selected as one of ~160 out of 10,000+ applicants. My 3-member pod, backed by the U.S. Department of Defense, is working on developing an NLP-based learning solution for members of the U.S. Navy to practice voice commands."
       },
@@ -79,6 +79,10 @@
       {
         "name": "C++", 
         "level": "60%"
+      }, 
+      {
+        "name": "Java", 
+        "level": "50%"
       }, 
       {
         "name": "JavaScript", 
@@ -119,33 +123,15 @@
     "projects": [
       {
         "title":"Headstone Photo Processing System v2",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "category":"Headstone OCR with automatic cropping and database matching",
+        "image":"",
+        "url":"https://github.com/daxborde/HPPSv2"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
