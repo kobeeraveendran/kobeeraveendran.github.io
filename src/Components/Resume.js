@@ -41,7 +41,7 @@ class Resume extends Component {
 
       <div className="row skill">
         <div className="three columns header-col">
-          <h1><span>Coursework</span></h1>
+          <h1><span>Rel. Coursework</span></h1>
         </div>
 
         <div className="nine columns main-col">
@@ -86,9 +86,20 @@ class Resume extends Component {
                 </li>
                 <li>
                   <h5>CAP6307 - Advanced Text Mining (Ongoing)</h5>
+                  <p>
+                    Explores current and previous approaches to natural language processing. Included lectures and programming 
+                    assignments covering fundamentals of NLP for unstructured data (multinomial Naive Bayes, Viterbi decoding, 
+                    question answering, text summarization). This portion of the course will then be followed by presentations of 
+                    our own proposed methods for improving on recent NLP techniques.
+                  </p>
                 </li>
                 <li>
                   <h5>CAP5636 - Advanced Artificial Intelligence (Ongoing)</h5>
+                  <p>
+                    Covers the principles of classical artificial intelligence, including search-based methods, 
+                    constraint satisfaction problems, game playing, Markov processes, and finally neural networks and 
+                    deep learning.
+                  </p>
                 </li>
 
               </ul>
