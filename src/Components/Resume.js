@@ -49,7 +49,7 @@ class Resume extends Component {
             <div className="twelve columns">
               <ul className="skills">
                 <li>
-                  <h5>CAP5415 - Computer Vision</h5>
+                  <h5>CAP5415 - Computer Vision (Fall 2018)</h5>
                   <p>
                     Fundamentals of computer vision, and shallow dive into modern computer vision with deep neural networks. Culminated 
                     in a demo of our research as well as a CVPR conference-style paper. Our work proposes an architecture that results in 
@@ -59,7 +59,7 @@ class Resume extends Component {
                   </p>
                 </li>
                 <li>
-                  <h5>CAP5610 - Machine Learning</h5>
+                  <h5>CAP5610 - Machine Learning (Fall 2019)</h5>
                   <p>
                     Fundamentals of statistical machine learning, optimization, and evaluation. Ended with a demo of our research, 
                     in which we explored the use of gated recurrent units as GAN substitutes for audio synthesis. View our work, 
@@ -68,7 +68,7 @@ class Resume extends Component {
                   </p>
                 </li>
                 <li>
-                  <h5>CAP6412 - Advanced Computer Vision</h5>
+                  <h5>CAP6412 - Advanced Computer Vision (Spring 2020)</h5>
                   <p>
                     Deep dive into papers published within the last 1-2 years surveying modern computer vision techniques. Consisted of 
                     weekly presentations of these papers carried out by students. Some of my programming assignments, as well as my 
@@ -77,7 +77,7 @@ class Resume extends Component {
                   </p>
                 </li>
                 <li>
-                  <h5>CAP6614 - Current Topics in Machine Learning (Ongoing)</h5>
+                  <h5>CAP6614 - Current Topics in Machine Learning (Fall 2020)</h5>
                   <p>
                     Survey of recent papers published to top ML conferences within the past ~5 years, also with student presentations 
                     on each. Includes a project in which we make novel improvements on the paper <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf">
@@ -85,7 +85,7 @@ class Resume extends Component {
                   </p>
                 </li>
                 <li>
-                  <h5>CAP6307 - Advanced Text Mining (Ongoing)</h5>
+                  <h5>CAP6307 - Advanced Text Mining (Fall 2020)</h5>
                   <p>
                     Explores current and previous approaches to natural language processing. Included lectures and programming 
                     assignments covering fundamentals of NLP for unstructured data (multinomial Naive Bayes, Viterbi decoding, 
@@ -94,7 +94,7 @@ class Resume extends Component {
                   </p>
                 </li>
                 <li>
-                  <h5>CAP5636 - Advanced Artificial Intelligence (Ongoing)</h5>
+                  <h5>CAP5636 - Advanced Artificial Intelligence (Fall 2020)</h5>
                   <p>
                     Covers the principles of classical artificial intelligence, including search-based methods, 
                     constraint satisfaction problems, game playing, Markov processes, and finally neural networks and 
