@@ -58,7 +58,7 @@ class Contact extends Component {
                <div className="widget">
                   <h4>Discord</h4>
                   <p className="email">
-                     Kobee R#5860
+                     iGPhX#5860
                   </p>
                </div>
 
