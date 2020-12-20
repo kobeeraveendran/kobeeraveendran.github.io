@@ -55,7 +55,7 @@ class Resume extends Component {
                     in a demo of our research as well as a CVPR conference-style paper. Our work proposes an architecture that results in 
                     faster training speed (without sacrificing much visual quality) of Philip Isola et. al's Pix2Pix network for conditional 
                     adversarial image-to-image translation. Our work explored a combination of U-Nets and residual layers; view it here: "
-                    <a href="https://github.com/kobeeraveendran/faster-pix2pix">Faster Pix2Pix</a>".
+                    <a href="https://github.com/kobeeraveendran/faster-pix2pix" target="_blank" rel="noreferrer noopener">Faster Pix2Pix</a>".
                   </p>
                 </li>
                 <li>
@@ -63,7 +63,7 @@ class Resume extends Component {
                   <p>
                     Fundamentals of statistical machine learning, optimization, and evaluation. Ended with a demo of our research, 
                     in which we explored the use of gated recurrent units as GAN substitutes for audio synthesis. View our work, 
-                    titled "<a href="https://github.com/bjmedina/gr-gan">Toward Improving Adversarial Audio Synthesis with 
+                    titled "<a href="https://github.com/bjmedina/gr-gan" target="_blank" rel="noreferrer noopener">Toward Improving Adversarial Audio Synthesis with 
                     Gated Recurrent Units</a>".
                   </p>
                 </li>
@@ -73,15 +73,17 @@ class Resume extends Component {
                     Deep dive into papers published within the last 1-2 years surveying modern computer vision techniques. Consisted of 
                     weekly presentations of these papers carried out by students. Some of my programming assignments, as well as my 
                     presentation on the paper "Scaling and Benchmarking Self-Supervised Visual Representation Learning" can be found 
-                    <a href="https://github.com/kobeeraveendran/cap6412/blob/master/3819943_raveendran_fair_ssb.pdf"> here</a>.
+                    <a href="https://github.com/kobeeraveendran/cap6412/blob/master/3819943_raveendran_fair_ssb.pdf" target="_blank" rel="noreferrer noopener"> here</a>.
                   </p>
                 </li>
                 <li>
                   <h5>CAP6614 - Current Topics in Machine Learning (Fall 2020)</h5>
                   <p>
                     Survey of recent papers published to top ML conferences within the past ~5 years, also with student presentations 
-                    on each. Includes a project in which we make novel improvements on the paper <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf">
-                    Self-Supervised Representation Learning by Rotation Feature Decoupling</a>.
+                    on each. Includes a project in which we make novel improvements on the paper 
+                    <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf" target="_blank" rel="noreferrer noopener">
+                    Self-Supervised Representation Learning by Rotation Feature Decoupling</a>. View my implementation 
+                    <a href="https://github.com/kobeeraveendran/feature-decoupling" target="_blank" rel="noreferrer noopener">here</a>.
                   </p>
                 </li>
                 <li>
@@ -90,7 +92,9 @@ class Resume extends Component {
                     Explores current and previous approaches to natural language processing. Included lectures and programming 
                     assignments covering fundamentals of NLP for unstructured data (multinomial Naive Bayes, Viterbi decoding, 
                     question answering, text summarization). This portion of the course will then be followed by presentations of 
-                    our own proposed methods for improving on recent NLP techniques.
+                    our own proposed methods for improving on recent NLP techniques or applications of modern NLP. View my project, in which 
+                    I develop models to predict political alignment via sentence context, 
+                    <a href="https://github.com/kobeeraveendran/political-party-affiliation" target="_blank" rel="noreferrer noopener">here</a>.
                   </p>
                 </li>
                 <li>
@@ -98,7 +102,9 @@ class Resume extends Component {
                   <p>
                     Covers the principles of classical artificial intelligence, including search-based methods, 
                     constraint satisfaction problems, game playing, Markov processes, and finally neural networks and 
-                    deep learning.
+                    deep learning. Assignments consisted of one of <a href="http://ai.berkeley.edu/reinforcement.html" target="_blank" rel="noreferrer noopener">UC Berkeley's classical AI assignments</a>
+                     and an exploration of neural networks for image classification. View my implementations of both (as hw1 and hw2) 
+                    <a href="https://github.com/kobeeraveendran/cap5636" target="_blank" rel="noreferrer noopener">here</a>.
                   </p>
                 </li>
 

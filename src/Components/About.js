@@ -26,10 +26,10 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>
-               I'm currently in the first semester of my Master's degree program at UCF. My research areas during my undergrad
+               I'm currently entering the second semester of my Master's degree program at UCF. My research areas during my undergrad
                have involved computer vision for autonomous vehicles and image processing for guided image compression. 
                In the current and upcoming semesters, I hope to expand my expertise into natural language processing and 
-               intelligent agents in both academia and industry.
+               intelligent agents in academia, and develop my applied software engineering skills in the industry.
             </p>
             <div className="row">
                <div className="columns download">
