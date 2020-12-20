@@ -99,7 +99,7 @@ class Resume extends Component {
                     Covers the principles of classical artificial intelligence, including search-based methods, 
                     constraint satisfaction problems, game playing, Markov processes, and finally neural networks and 
                     deep learning. Assignments consisted of one of <a href="http://ai.berkeley.edu/reinforcement.html" target="_blank" rel="noreferrer noopener">UC Berkeley's classical AI assignments</a> and 
-                    an exploration of neural networks for image classification. View my implementations of both (as hw1 and hw2) <a href="https://github.com/kobeeraveendran/cap5636" target="_blank" rel="noreferrer noopener">here</a>.
+                    an exploration of neural networks for image classification. View my implementations of both (as hw2 and hw3) <a href="https://github.com/kobeeraveendran/cap5636" target="_blank" rel="noreferrer noopener">here</a>.
                   </p>
                 </li>
 
