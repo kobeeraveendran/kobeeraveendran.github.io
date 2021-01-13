@@ -49,7 +49,7 @@
       {
         "company":"Major League Hacking",
         "title":"Software Engineering Fellow",
-        "years":"October 2020 - Present",
+        "years":"October 2020 - December 2020",
         "description":"Member of the MLH Fellowship's Fall 2020 cohort, in which I was selected as one of ~160 out of 10,000+ applicants. My 3-member pod, backed by the U.S. Department of Defense, is working on developing an NLP-based learning solution for members of the U.S. Navy to practice voice commands."
       },
       {
@@ -74,7 +74,7 @@
     "skills":[
       {
         "name": "Python", 
-        "level": "90%"
+        "level": "95%"
       }, 
       {
         "name": "C++", 
@@ -115,7 +115,7 @@
       }, 
       {
         "name": "ReactJS", 
-        "level": "40%"
+        "level": "55%"
       }
     ]
   },
@@ -126,12 +126,6 @@
         "category":"Headstone OCR with automatic cropping and database matching",
         "image":"",
         "url":"https://github.com/daxborde/HPPSv2"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
       }
     ]
   }

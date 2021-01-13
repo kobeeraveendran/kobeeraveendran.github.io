@@ -102,6 +102,24 @@ class Resume extends Component {
                   </p>
                 </li>
 
+                <li>
+                  <h5>CAP6640 - Computer Understanding of Natural Language (Spring 2021 - Ongoing)</h5>
+                  <p>
+                    Extension on the concepts introduced in CAP6307, now instead focusing on recent cornerstone NLP research from the past 
+                    ~8 years. Will include both paper reviews and related projects pertaining to those papers, and ends in a final project 
+                    showcasing our own research.
+                  </p>
+                </li>
+
+                <li>
+                  <h5>CAP6671 - Intelligent Systems: Robots, Agents, and Humans (Spring 2021 - Ongoing)</h5>
+                  <p>
+                    Exploration of systems that simulate intelligence via planning, cooperation, and learning. The course focuses on "challenge"-type 
+                    projects in which we develop agents for benchmarking against existing implementations, or implement systems from papers directly. 
+                    Includes a minimal survey of recent reinforcement learning papers, and also culminates in a final project where we again pursue independent research.
+                  </p>
+                </li>
+
               </ul>
             </div>
           </div>
