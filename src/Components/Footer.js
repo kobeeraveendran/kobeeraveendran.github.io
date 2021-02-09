@@ -19,8 +19,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; 2020 Kobee Raveendran</li>
-              <li>Graphic design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; 2021 Kobee Raveendran</li>
+              <li>Graphic assets from <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
         </div>
