@@ -47,6 +47,12 @@
     ],
     "work":[
       {
+        "company": "Microsoft", 
+        "title": "Software Engineer Intern", 
+        "years": "May 2021 - August 2021", 
+        "description": "TBD; working in Microsoft's Experiences and Devices (E&D) group"
+      }, 
+      {
         "company":"Major League Hacking",
         "title":"Software Engineering Fellow",
         "years":"October 2020 - December 2020",
