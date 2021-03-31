@@ -50,13 +50,13 @@
         "company": "Microsoft", 
         "title": "Software Engineer Intern", 
         "years": "May 2021 - August 2021", 
-        "description": "team TBD; Microsoft Experiences and Devices (E&D) group"
+        "description": "project TBD; Data and Applied Sciences team, Microsoft Experiences and Devices (E&D) group"
       }, 
       {
         "company":"Major League Hacking",
         "title":"Software Engineering Fellow",
         "years":"October 2020 - December 2020",
-        "description":"Member of the MLH Fellowship's Fall 2020 cohort, in which I was selected as one of ~160 out of 10,000+ applicants. My 3-member pod, backed by the U.S. Department of Defense, is working on developing an NLP-based learning solution for members of the U.S. Navy to practice voice commands."
+        "description":"Member of MLH's Fall 2020 Externship cohort. For our project, backed by the U.S. Dept. of Defense, we developed a cross-platform application for members of the U.S. Navy to learn and practice spoken naval commands. It features automatic student evaluation (via transcribed-speech similarity scores) and performance-guided progression through a curriculum set by naval instructors."
       },
       {
         "company":"University of Central Florida",
