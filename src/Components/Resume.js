@@ -118,8 +118,9 @@ class Resume extends Component {
                   <h5>CAP6640 - Computer Understanding of Natural Language (Spring 2021 - Ongoing)</h5>
                   <p>
                     Extension on the concepts introduced in CAP6307, now instead focusing on recent cornerstone NLP research from the past 
-                    ~8 years. Will include both paper reviews and related projects pertaining to those papers, and ends in a final project 
-                    showcasing our own research.
+                    ~8 years. Included paper reviews of the most impactful works, as well as a final project encompassing our own research into 
+                    the NLP field. View my work, in which we developed a system capable of automatic summarization of 
+                    scientific research papers, <a href="https://github.com/kobeeraveendran/auto-survey" target="_blank" rel="noreferrer noopener">here</a>.
                   </p>
                 </li>
 
@@ -128,7 +129,10 @@ class Resume extends Component {
                   <p>
                     Exploration of systems that simulate intelligence via planning, cooperation, and learning. The course focuses on "challenge"-type 
                     projects in which we develop agents for benchmarking against existing implementations, or implement systems from papers directly. 
-                    Includes a minimal survey of recent reinforcement learning papers, and also culminates in a final project where we again pursue independent research.
+                    Includeded a minimal student-made literature survey of recent research in whatever domain we chose 
+                    (such as StarCraft and RoboCup Soccer). Also included a final project in which we did independent research on a field of 
+                    machine learning of our choosing; view my project, which also deals with scientific literature summarization (but uses a 
+                    different method, achieving better results), <a href="https://github.com/kobeeraveendran/lsi" target="_blank" rel="noreferrer noopener">here</a>.
                   </p>
                 </li>
 
