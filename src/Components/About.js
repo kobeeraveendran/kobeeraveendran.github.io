@@ -28,8 +28,9 @@ class About extends Component {
             <p>
                I'm currently in the second semester of my Master's degree program at UCF. My research areas during my undergrad
                have involved computer vision for autonomous vehicles and image processing for guided image compression. 
-               In the current and upcoming semesters, I hope to expand my expertise into natural language processing and 
-               intelligent agents in academia, and develop my applied software engineering skills in the industry.
+               Throughout my lifetime as a graduate student, I've since done research on general machine learning, 
+               reinforcement learning, and natural language processing. As I finish up my degree, I look forward to 
+               coming full circle and studying algorithms and low-level computing architecture once again.
             </p>
             <div className="row">
                <div className="columns download">

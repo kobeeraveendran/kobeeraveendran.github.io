@@ -35,7 +35,8 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">I'm Kobee Raveendran</h1>
             <h3>I'm a <span>software engineer</span> and <span>researcher</span> based in Orlando, Florida. I'm passionate 
-            about bridging the gap between industrial software development and the most recent machine learning approaches.</h3>
+            about expanding the depth of my knowledge and applying my software engineering and artificial intelligence backgrounds 
+            to create future-ready software.</h3>
             <hr />
             <ul className="social">
                {networks}
