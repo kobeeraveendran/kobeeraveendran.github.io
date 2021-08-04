@@ -20,7 +20,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src="images/chad_profilepic.jpg" alt="Kobee Raveendran Profile Pic" />
+            <img className="profile-pic"  src="images/Kobee_SickoMode.jpg" alt="Kobee Raveendran Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -28,7 +28,7 @@ class About extends Component {
             <p>
                I'm currently entering the final semester of my Master's degree in CS at UCF. My research areas during my undergrad
                have involved computer vision for autonomous vehicles and image processing for guided image compression. 
-               My interests currently include classical AI and deep learning, as well as web and app development.
+               My technical interests currently include algorithms, classical AI, deep learning, and web and app development.
             </p>
             <div className="row">
                <div className="columns download">
