@@ -35,12 +35,14 @@ class Contact extends Component {
 
          <div className="row">
 
-            <aside className="four columns footer-widgets">
+            <aside className="five columns footer-widgets">
                <div className="widget widget_contact">
 
 					   <h4>Email</h4>
                   <p className="email">
-                     {email}
+                     <b>School:</b> kobee.raveendran@knights.ucf.edu
+                     <br />
+                     <b>Personal:</b> kobee.raveen@gmail.com
                   </p>
 				   </div>
                <div className="widget widget_contact">
