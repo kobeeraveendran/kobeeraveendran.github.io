@@ -15,7 +15,16 @@ class Footer extends Component {
      <div className="row">
         <div className="twelve columns">
            <ul className="social-links">
-              {networks}
+              <li key="github">
+                <a href="http://github.com/kobeeraveendran/" target="_blank" rel="noreferrer noopener">
+                  <i className="fa fa-github" />
+                </a>
+              </li>
+              <li key="linkedin">
+                <a href="https://www.linkedin.com/in/kobee-raveendran/" target="_blank" rel="noreferrer noopener">
+                  <i className="fa fa-linkedin" />
+                </a>
+              </li>
            </ul>
 
            <ul className="copyright">

@@ -48,13 +48,13 @@ class Contact extends Component {
                <div className="widget widget_contact">
                   <h4>LinkedIn</h4>
                   <p className="email">
-                     <a href="https://www.linkedin.com/in/kobee-raveendran/">Kobee Raveendran</a>
+                     <a href="https://www.linkedin.com/in/kobee-raveendran/" target="_blank" rel="noreferrer noopener">Kobee Raveendran</a>
                   </p>
                </div>
                <div className="widget">
                   <h4>Github</h4>
                   <p className="email">
-                     <a href="https://github.com/kobeeraveendran">kobeeraveendran</a>
+                     <a href="https://github.com/kobeeraveendran" target="_blank" rel="noreferrer noopener">kobeeraveendran</a>
                   </p>
                </div>
                <div className="widget">
