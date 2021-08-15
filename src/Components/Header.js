@@ -39,7 +39,16 @@ class Header extends Component {
             to create future-ready software.</h3>
             <hr />
             <ul className="social">
-               {networks}
+               <li key="github">
+                  <a href="http://github.com/kobeeraveendran" target="_blank" rel="noreferrer noopener">
+                     <i className="fa fa-github" />
+                  </a>
+               </li>
+               <li key="linkedin">
+                  <a href="https://www.linkedin.com/in/kobee-raveendran/" target="_blank" rel="noreferrer noopener">
+                     <i className="fa fa-linkedin" />
+                  </a>
+               </li>
             </ul>
          </div>
       </div>
