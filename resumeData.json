@@ -35,17 +35,23 @@
       {
         "school":"University of Central Florida",
         "degree":"Master of Science in Computer Science",
-        "graduated":"August 2020 - December 2021",
+        "graduated":"2020 - 2021",
         "description":""
       },
       {
         "school":"University of Central Florida",
         "degree":"Bachelor of Science in Computer Science, Mathematics Minor",
-        "graduated":"May 2020",
+        "graduated":"2016 - 2020",
         "description":""
       }
     ],
     "work":[
+      {
+        "company": "Microsoft",
+        "title": "Software Engineer I",
+        "years": "January 2022",
+        "description": "Windows and Devices @ Microsoft"
+      },
       {
         "company": "Microsoft", 
         "title": "Software Engineer Intern", 
