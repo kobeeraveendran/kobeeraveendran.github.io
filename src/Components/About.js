@@ -4,15 +4,6 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      // var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
-      // var bio = this.props.data.bio;
-      // var street = this.props.data.address.street;
-      // var city = this.props.data.address.city;
-      // var state = this.props.data.address.state;
-      // var zip = this.props.data.address.zip;
-      // var phone= this.props.data.phone;
-      // var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
 
@@ -26,9 +17,14 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>
-               I'm currently entering the final semester of my Master's degree in CS at UCF. My research areas during my undergrad
-               have involved computer vision for autonomous vehicles and image processing for guided image compression. 
-               My technical interests currently include algorithms, classical AI, deep learning, and web and app development.
+               I'm a software engineer at Microsoft in the Windows, Developers and Experiences (WDX) group on the 
+               Signature Experiences (SigX) PC2 team. Currently, my team is working on adding efficient and exciting 
+               functionality to the Windows File Explorer.
+
+               I recently graduated from the University of Central Florida with my master's in computer science, with a 
+               heavy concentration in deep learning. Outside of work, I'm into cars, gaming, cooking, and hanging out with friends 
+               doing just about anything. If you're interested in learning more about me or my work, feel free to reach 
+               out using any of the mediums in the Contact section.
             </p>
             <div className="row">
                <div className="columns download">
